@@ -1,0 +1,30 @@
+.menu-pos {
+  z-index: 1;
+}
+
+.ptr {
+  cursor: pointer;
+}
+
+.extreme {
+  min-height: 100vh;
+  min-width: 100%;
+  background-color: rgba(0, 121, 193, 0.2);
+  top: 0;
+}
+
+.center-me {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.color {
+  color: #00457c;
+}
+
+h2:hover {
+  text-decoration: underline;
+}
